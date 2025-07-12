@@ -1,0 +1,1 @@
+// Calcule a diferença de dias entre duas datas.
